@@ -1,0 +1,56 @@
+
+    
+
+        .centrado
+        {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+          }
+        
+    
+    
+
+    h1 { 
+    background-color:#999999;
+    font-family: sans-serif;
+    text-align: center;
+    color: #0000FF
+       }
+   
+   
+   h3 {
+    background-color:#999999;
+    font-family: sans-serif;
+    color: #0000FF
+       }
+
+
+ li{
+    font-weight: bold;
+    font-style:  italic;
+
+ }
+
+ span {
+    font-weight: lighter;
+  }
+
+
+p
+{
+    font-weight: bold;
+}
+
+h4
+{
+    background-color:#000080;
+    font-family: sans-serif;
+    text-align: center;
+    color:  #FFFFFF;
+	
+}
+
+
+
+
