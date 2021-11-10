@@ -1,0 +1,44 @@
+.centrado {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    background-color: #EC7063;
+    font-family: sans-serif;
+    text-align: center;
+    color: #2E4053 
+}
+
+h3 {
+    background-color: #EC7063;
+    font-family: sans-serif;
+    color: #2E4053 
+}
+
+li {
+    font-weight: bold;
+    font-style: italic;
+}
+
+span {
+    font-weight: lighter;
+}
+
+p {
+    font-weight: bold;
+}
+
+a {
+    
+    font-family: sans-serif;
+    text-align: center;
+    color: #FFFFFF;
+   
+}
+ol
+{
+    background-color:#16283B ;
+    text-align: center;
+}
