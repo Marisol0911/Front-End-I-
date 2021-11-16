@@ -1,3 +1,13 @@
+body
+{
+    font-family: 'Raleway', sans-serif;
+}
+
+
+header{
+    background-image: url(https://fondosmil.com/fondo/3040.jpg);
+}
+
 .centrado {
     display: block;
     margin-left: auto;
@@ -41,4 +51,5 @@ footer
 {
     background-color:#16283B ;
     text-align: center;
+ 
 }
