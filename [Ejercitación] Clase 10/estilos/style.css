@@ -1,0 +1,131 @@
+body
+{
+   width: 1070px;
+}
+
+header
+{
+   position: fixed;
+}
+
+#container-general
+{
+width: 1070;
+
+}
+
+#container-1
+{
+background-color:  #1CD1B0;
+position: absolute;
+width: 1070px;
+height: 38px;
+left: 0px;
+top: 0px;
+
+
+}
+
+
+#container-2
+{
+background-color:  #00669F;
+Font-size: 40px;
+position: absolute;
+width: 1070px;
+height: 101px;
+left: 0px;
+top: 38px;
+
+}
+
+.caja1
+
+{
+background:#F3F3F3;
+position: absolute;
+width: 300px;
+height: 500px;
+left: 32px;
+top: 300px;
+}
+
+.caja2
+
+{
+background:#F3F3F3;
+position: absolute;
+width: 300px;
+height: 500px;
+left: 400px;
+top: 300px;
+}
+
+.caja3
+
+{
+   
+background:#F3F3F3;
+position: absolute;
+width: 300px;
+height: 500px;
+left: 780px;
+top: 300px;
+}
+
+.final
+{
+   background: #00669F;
+   color: white;
+   position: absolute;
+   width: 1070px;
+   height: 51px;
+   left: 0px;
+   top: 972px;
+   
+  
+}
+
+h2
+{
+   Font-size: 40px;
+   text-align: center;
+   background:#F3F3F3;
+}
+
+h3{
+
+   background:#00669F;
+}
+
+.imagenes
+{
+position: absolute;
+width: 120px;
+height: 118px;
+left: 100px;
+top: 122px;
+border-radius:150px;
+
+}
+
+.corazon
+{
+ position: absolute;
+left: 0%;
+right: 0%;
+top: 6.25%;
+bottom: 6.25%;
+}
+
+.boton
+{
+  
+   padding: 10px;
+   font-weight: 600;
+   font-size: 20px;
+   color: #ffffff;
+   background-color: #1883ba;
+   text-align: center; 
+   transform: translateX(80%);
+}
